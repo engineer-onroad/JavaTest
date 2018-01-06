@@ -1,6 +1,7 @@
 package com.java.rpc.thrift;
 
-import org.apache.commons.lang.StringUtils;
+
+import org.apache.commons.lang3.StringUtils;
 import org.apache.thrift.TException;
 
 import java.util.Date;
