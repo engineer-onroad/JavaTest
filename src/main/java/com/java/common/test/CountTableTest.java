@@ -9,7 +9,7 @@ import java.text.SimpleDateFormat;
 public class CountTableTest {
     public static int TALBE_NUMBER_512 = 512;
     public static int TABLE_PER_DB = 1024;
-    public static String TABLE_WALL_USER_TABLE_PREFIX="p_wall_user_";
+    public static String TABLE_WALL_USER_TABLE_PREFIX="p_user_";
 
 
     public static void main(String[] args) throws ParseException {

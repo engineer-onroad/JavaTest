@@ -17,7 +17,7 @@ public class CommonTest {
         }else{
             System.out.println(fanUid);
         }
-        String str="恭喜你升级为爱奇艺号，获得专享泡泡圈特权，且有机会获得更多曝光，你可以在【圈子-设置-接收私聊】中，设置是否接收私聊。点此设置";
+        String str="你好，test点此设置";
 
         System.out.println("length:"+str.length()+",index:"+str.indexOf("点此设置"));
         long time=System.currentTimeMillis();
