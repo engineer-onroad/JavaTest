@@ -13,7 +13,7 @@ public class CountTableTest {
 
 
     public static void main(String[] args) throws ParseException {
-        long id=2103923726;
+        long id=1167748419;
         String table=getTableName(id,TABLE_WALL_USER_TABLE_PREFIX);
         System.out.println("table="+table);
 
