@@ -1,7 +1,7 @@
 package com.java.common.test;
 
 /**
- * Created by wudi06 on 2018/2/1.
+ * Created  on 2018/2/1.
  */
 public class SystemHashCodeTest {
     public static void main(String[] args) {

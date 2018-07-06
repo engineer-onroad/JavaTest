@@ -7,7 +7,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Created by wudi06 on 2018/1/11.
+ * Created on 2018/1/11.
  */
 public class HelloTest {
 	

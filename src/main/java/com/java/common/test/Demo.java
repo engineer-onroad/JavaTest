@@ -1,7 +1,7 @@
 package com.java.common.test;
 
 /**
- * Created by wudi06 on 2018/3/13.
+ * Created  on 2018/3/13.
  */
 class SubClass extends SuperClass {
     public String name = "SubClass";

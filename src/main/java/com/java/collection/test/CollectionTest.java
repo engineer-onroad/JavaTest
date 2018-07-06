@@ -9,7 +9,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by wudi06 on 2018/1/24.
+ * Created  on 2018/1/24.
  */
 public class CollectionTest {
     public static void main(String[] args) {

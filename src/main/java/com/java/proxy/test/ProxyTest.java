@@ -3,7 +3,7 @@ package com.java.proxy.test;
 import java.lang.reflect.Proxy;
 
 /**
- * Created by wd on 2018/7/5.
+ * Created on 2018/7/5.
  */
 public class ProxyTest {
     public static void main(String[] args) {
