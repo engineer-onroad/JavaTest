@@ -4,7 +4,7 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
 /**
- * Created by wd on 2018/7/5.
+ * Created  on 2018/7/5.
  */
 public class InvokerInvocationHandler implements InvocationHandler {
     private final Object invoker;
